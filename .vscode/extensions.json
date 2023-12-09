@@ -7,4 +7,6 @@
 		"ms-python.python",
 		"donjayamanne.python-environment-manager",
 		"donjayamanne.python-extension-pack",
-		"dphans.micropython-id
+		"dphans.micropython-ide-vscode"
+	]
+}
