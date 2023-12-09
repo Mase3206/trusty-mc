@@ -6,7 +6,6 @@
 		"ms-python.vscode-pylance",
 		"ms-python.python",
 		"donjayamanne.python-environment-manager",
-		"donjayamanne.python-extension-pack",
-		"dphans.micropython-ide-vscode"
+		"donjayamanne.python-extension-pack"
 	]
 }
